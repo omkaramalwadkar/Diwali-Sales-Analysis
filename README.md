@@ -1,1 +1,2 @@
 # Diwali-Sales-Analysis
+This project analyzes Diwali sales data to gain insights into customer demographics, purchase behaviors, and regional spending patterns. The primary objectives are to enhance customer experience and identify strategies to increase revenue. By examining key metrics such as average spending, product preferences, and high-value customer segments, we provide data-driven recommendations to optimize marketing efforts and improve sales performance.
